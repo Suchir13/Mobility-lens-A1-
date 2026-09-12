@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Mobility Lens</string>
+    <string name="app_intro">Explore the six dimensions that make mobile apps different from desktop apps.</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_check">Check</string>
+    <string name="label_app_name_field">Enter an app or feature name</string>
+    <string name="warning_blank_input">Please enter a name before checking.</string>
 </resources>
